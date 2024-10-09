@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.hortonworks.hive:hive-warehouse-connector_2.11:1.0.0.3.1.0.0-78:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/repo.hortonworks.com/content/repositories/releases/com/hortonworks/hive/hive-warehouse-connector_2.11/1.0.0.3.1.0.0-78/hive-warehouse-connector_2.11-1.0.0.3.1.0.0-78.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/repo.hortonworks.com/content/repositories/releases/com/hortonworks/hive/hive-warehouse-connector_2.11/1.0.0.3.1.0.0-78/hive-warehouse-connector_2.11-1.0.0.3.1.0.0-78-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

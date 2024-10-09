@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.arrow:arrow-format:0.8.0.3.1.0.0-78:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/http/repo.hortonworks.com/content/repositories/releases/org/apache/arrow/arrow-format/0.8.0.3.1.0.0-78/arrow-format-0.8.0.3.1.0.0-78.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
